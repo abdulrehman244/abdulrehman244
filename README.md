@@ -1,64 +1,137 @@
-<h2 align="center">
-  Hi there 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
-  I'm Abdul Rehman
+<h2> Hi There 
+    <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="75" />
 </h2>
 
-<p align="center">
-  Flutter Developer 🚀 <br/>
-  Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.
-</p>
+<h3> I'm Muhammad Owais Ahmed!</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
-</p>
+<div align="center">
+ <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%" loop=infinite alt="Coding Animation">
+</div>
 
----
+## 👨‍💻 About Me
+I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Flutter, Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **6+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Flutter mobile applications**
-- 🌱 Learning **Advanced Flutter, Firebase, REST APIs & State Management**
-- 👯 Open to collaborate on **Flutter & open-source projects**
-- 💬 Ask me about **Flutter, Dart, UI implementation, Git & GitHub**
-- ⚡ Fun fact: I enjoy turning ideas into real mobile apps 🚀
+- 🔥 **Expert in Full-Stack Development**: Crafting exceptional web applications from the ground up
+- 🌐 **Proficient in multiple frameworks**: Angular, React.js, Node.js, .NET, and Django
+- 🚀 **Ready to take on challenges**: Enjoy working on high-impact projects that make a difference
 
 ---
 
-### 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Contact](#contact)
 
 ---
 
-### 🤝 Let’s Connect
-- 💼 Open to **Flutter development opportunities**
-- 📫 Reach me via **GitHub**
+## 🛠 Tech Stack
 
-<p align="center">
-  🚀 Always learning • Always building
-</p>
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white)
 
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
 
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.<br><br>👯 I’m looking to collaborate on  <br>Flutter projects, open-source applications, and real-world mobile app ideas.<br><br>🤝 I’m looking for help with  <br>Advanced Flutter concepts, performance optimization, and scalable app architecture.<br><br>🌱 I’m currently learning  <br>Advanced Flutter, Firebase integration, REST APIs, and state management techniques.<br><br>💬 Ask me about  <br>Flutter, Dart, mobile app development, UI implementation, and Git/GitHub.<br><br>⚡ Fun fact  <br>I enjoy turning simple ideas into polished mobile apps and learning something new every day 🚀<br>
+### 🔙 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dot-net)
 
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abdulrehman244) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrehman-flutter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehman.ali6765@gmail.com) 
+### ☁️ Cloud & Backend as a Service
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulrehman244&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulrehman244&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman244&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔧 Tools & Utilities
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulrehman244&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+- 🌟 **[E-Learning Platform](https://github.com/your-repo-link)**: Built a highly responsive e-learning web application using Angular and Firebase, enhancing the user experience for over 5,000+ students.
+- 🌟 **[Inventory Management App](https://github.com/your-repo-link)**: Developed a cross-platform inventory management app using Flutter, enabling businesses to streamline operations.
+- 🌟 **[Social Media Analytics Dashboard](https://github.com/your-repo-link)**: Created an analytics dashboard using React and Node.js, providing real-time insights for social media campaigns.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=codewithowais&show_icons=true&theme=radical&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithowais&layout=compact&theme=radical&langs_count=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithowais&theme=radical" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+Reach out to me directly through any of the following platforms:
+
+<a href="https://www.linkedin.com/in/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:codewithowais@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923169585886/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://twitter.com/CodeWithOwais/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://codewithowais.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCs9sIyM5vr-YumfgGdZpkOw/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://dev.to/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+---
+
+## ❤ Views and Followers
+    
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=codewithowais">
+</a>
+<a href="https://github.com/codewithowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
