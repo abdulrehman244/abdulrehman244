@@ -1,5 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdul Rehman
-Flutter Developer 🚀
+
+Flutter Developer 🚀  
+Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.<br><br>👯 I’m looking to collaborate on  <br>Flutter projects, open-source applications, and real-world mobile app ideas.<br><br>🤝 I’m looking for help with  <br>Advanced Flutter concepts, performance optimization, and scalable app architecture.<br><br>🌱 I’m currently learning  <br>Advanced Flutter, Firebase integration, REST APIs, and state management techniques.<br><br>💬 Ask me about  <br>Flutter, Dart, mobile app development, UI implementation, and Git/GitHub.<br><br>⚡ Fun fact  <br>I enjoy turning simple ideas into polished mobile apps and learning something new every day 🚀<br>
