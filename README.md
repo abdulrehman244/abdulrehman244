@@ -1,9 +1,8 @@
-<h2> Hi There 
-    <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
+<h2> Hi There
+    <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="75" />
-</h2>
+         width="45" />
 
 <h3> I'm Abdul Rehman!</h3>
 
