@@ -5,14 +5,14 @@
          width="75" />
 </h2>
 
-<h3> I'm Muhammad Owais Ahmed!</h3>
+<h3> I'm Abdul Rehman!</h3>
 
 <div align="center">
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%" loop=infinite alt="Coding Animation">
 </div>
 
 ## 👨‍💻 About Me
-I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Flutter, Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **6+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
+I'm a Flutter Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Flutter, Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **6+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
 
 - 🔥 **Expert in Full-Stack Development**: Crafting exceptional web applications from the ground up
 - 🌐 **Proficient in multiple frameworks**: Angular, React.js, Node.js, .NET, and Django
@@ -48,18 +48,7 @@ I'm a **Senior Full-Stack Developer** with a proven track record of delivering *
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
-
-### 🔙 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dot-net)
-
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+ Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### ☁️ Cloud & Backend as a Service
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
