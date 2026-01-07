@@ -1,9 +1,47 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdul Rehman
+<h2 align="center">
+  Hi there 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
+  I'm Abdul Rehman
+</h2>
 
-Flutter Developer 🚀  
-Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.
+<p align="center">
+  Flutter Developer 🚀 <br/>
+  Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.
+</p>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **Flutter mobile applications**
+- 🌱 Learning **Advanced Flutter, Firebase, REST APIs & State Management**
+- 👯 Open to collaborate on **Flutter & open-source projects**
+- 💬 Ask me about **Flutter, Dart, UI implementation, Git & GitHub**
+- ⚡ Fun fact: I enjoy turning ideas into real mobile apps 🚀
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Let’s Connect
+- 💼 Open to **Flutter development opportunities**
+- 📫 Reach me via **GitHub**
+
+<p align="center">
+  🚀 Always learning • Always building
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building clean, responsive, and user-friendly mobile applications using Flutter & Dart.<br><br>👯 I’m looking to collaborate on  <br>Flutter projects, open-source applications, and real-world mobile app ideas.<br><br>🤝 I’m looking for help with  <br>Advanced Flutter concepts, performance optimization, and scalable app architecture.<br><br>🌱 I’m currently learning  <br>Advanced Flutter, Firebase integration, REST APIs, and state management techniques.<br><br>💬 Ask me about  <br>Flutter, Dart, mobile app development, UI implementation, and Git/GitHub.<br><br>⚡ Fun fact  <br>I enjoy turning simple ideas into polished mobile apps and learning something new every day 🚀<br>
