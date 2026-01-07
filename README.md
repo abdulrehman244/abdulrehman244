@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/coding.gif" width="380"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="380"/>
 </p>
-
 
 ---
 
