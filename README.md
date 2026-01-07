@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/coding.gif" width="380"/>
 </p>
+
 
 ---
 
