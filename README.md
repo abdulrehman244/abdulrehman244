@@ -5,7 +5,7 @@
          width="75" />
 </h2>
 
-<h3> I'm Muhammad Owais Ahmed!</h3>
+<h3> I'm Abdul Rehman!</h3>
 
 <div align="center">
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%" loop=infinite alt="Coding Animation">
